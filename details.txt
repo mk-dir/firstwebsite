@@ -1,2 +1,4 @@
 My Name is Caleb, Python!
+This about my second commit
+I am a Legend, but like all legends, the story begins with a boy. He was shitty. Lacked sense of direction, But then...
 
